@@ -1,0 +1,29 @@
+=== LAPORAN ANALISIS OUTLIER ===
+Total sampel awal: 1460
+Sampel setelah penghapusan outlier: 1284
+
+Fitur: SalePrice
+- Jumlah outlier: 61
+- Batas bawah: 3937.50
+- Batas atas: 340037.50
+
+Fitur: GrLivArea
+- Jumlah outlier: 31
+- Batas bawah: 158.62
+- Batas atas: 2747.62
+
+Fitur: LotArea
+- Jumlah outlier: 69
+- Batas bawah: 1481.50
+- Batas atas: 17673.50
+
+Fitur: TotalBsmtSF
+- Jumlah outlier: 61
+- Batas bawah: 42.00
+- Batas atas: 2052.00
+
+Fitur: 1stFlrSF
+- Jumlah outlier: 20
+- Batas bawah: 118.12
+- Batas atas: 2155.12
+
