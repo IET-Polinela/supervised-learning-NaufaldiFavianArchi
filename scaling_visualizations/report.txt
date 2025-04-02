@@ -1,0 +1,11 @@
+
+=== Scaling Visualization Report ===
+Date: 2025-04-02 04:40:29
+Features Analyzed: GrLivArea, TotalBsmtSF, LotArea, 1stFlrSF
+Scaling Methods Compared:
+- StandardScaler (Mean=0, Std=1)
+- MinMaxScaler (Range [0, 1])
+
+Visualizations Saved:
+- Histograms: scaling_visualizations/histograms/
+- QQ-Plots: scaling_visualizations/qqplots/
